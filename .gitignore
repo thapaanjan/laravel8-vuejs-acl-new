@@ -21,3 +21,12 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+
+/public/js
+/public/css
+/public/uploads
+.htaccess
+.robot.txt
+.gitignore
+mix-manifest.json
